@@ -1,4 +1,6 @@
 [sequelbot-config]
-0x3333aaa    = 2222
+0x1111aaa    = 1111
+0x2222bbb    = 2222
+0x3333ccc    = 3333
 messagenew = "Works with autumn 2022 Update!\n For more information, go to \n https://mybot.run \n Always free and open source."
 messageold = "A new version of MyBot (v8.0) is available!\nPlease download the latest from:\nhttps://mybot.run"
