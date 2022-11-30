@@ -1,0 +1,2 @@
+[sequelbot-config]
+0x3333aaa    = 2222
