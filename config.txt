@@ -1,5 +1,5 @@
-0x1111aaa
-2222
+0x1111aaa //hpf1 address
+2222 //hpf1 value
 0x1111bbb
 -1
 0x1111ccc
