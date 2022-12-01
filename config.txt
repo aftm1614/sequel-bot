@@ -1,2 +1,6 @@
-Address = 0x1111aaa;
-Value = 2222;
+0x1111aaa
+2222
+0x1111bbb
+-1
+0x1111ccc
+555
